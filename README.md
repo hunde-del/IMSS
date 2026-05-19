@@ -81,11 +81,3 @@ http://localhost/ims/
 This project is provided as-is for educational and small business use. Use or modify under your desired license (suggested: MIT).
 
 ---
-
-If you'd like, I can also:
-
-- Add example screenshots to the README
-- Add a `docs/` folder with usage guides
-- Create a sample `.env` loader and update `config.php` to read environment values
-
-Feel free to tell me which of the above you'd like next.
